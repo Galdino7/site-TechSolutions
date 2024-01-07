@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+}
+
+#header{
+    text-align: center;
+    background-color: #001F3F;
+    padding-bottom: 55px;
+}
+
+#logo{
+    height: 130px;
+    width: 130px;
+    float: left;
+}
+
+#cbl{
+    color: white;
+    padding-top: 40px;
+    padding-right: 20px;
+}
+#img1{
+    height: 507px;
+    width: 600px;
+    float: left;
+    padding-left: 2px;
+    border: 20px;
+}
+#p1{
+    font-size: 45px;
+}
+#div1{
+    padding-top: 02px;
+}
+#div2{
+    font-size: 25px;
+    padding-top: 40px;
+}
+
+#h2{
+    text-align: center;
+}
+
+#p2{
+    padding-left: 5px;
+}
